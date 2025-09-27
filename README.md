@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ride-Booking<br><br>🌱 I’m currently learning Devops, React.js, Microservices, etc.<br><br>🤝 I’m looking for help with improving my backend architecture.<br><br>📝 I generally do Dsa on leetcode https://leetcode.com/u/ansarizeeshan1232/<br><br>💬 Ask me about Java, DSA, APIs, and fullstack development<br><br>📫 How to reach me zeecareer00@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/19lyvleSrfNO-un2EOBHHM1w01VMBNg3j/view?usp=sharing<br><br>⚡ Fun fact I love solving bugs more than writing new features 🐞➡️✨
+🌱 I’m currently learning Devops, React.js, Microservices, etc.<br><br>📝 I generally do Dsa on leetcode https://leetcode.com/u/ansarizeeshan1232/<br><br>📫 How to reach me zeecareer00@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/19lyvleSrfNO-un2EOBHHM1w01VMBNg3j/view?usp=sharing<br><br>⚡ Fun fact I love solving bugs more than writing new features 🐞➡️✨
 
 
 ## 🌐 Socials:
